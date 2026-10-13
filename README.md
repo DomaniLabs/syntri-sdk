@@ -5,7 +5,7 @@ Official client SDKs for [Syntri](https://github.com/DomaniLabs/Syntri).
 | Language | Package | Status |
 |---|---|---|
 | TypeScript / Node.js | `npm install syntri` | ✅ Available |
-| Python | `pip install syntri-sdk` | 🔜 Coming soon |
+| Python | `pip install syntri-sdk` | ✅ Available |
 | Go | `go get github.com/domaniLabs/syntri-sdk/go` | 🔜 Coming soon |
 
 ## What is Syntri?
@@ -22,7 +22,7 @@ Works with any AI system, any domain, any language.
 See the README in each language directory:
 
 - [TypeScript / Node.js](./typescript/README.md) — available now
-- [Python](./python/README.md) — coming soon
+- [Python](./python/README.md) — available now
 - [Go](./go/README.md) — coming soon
 
 ## About these SDKs
